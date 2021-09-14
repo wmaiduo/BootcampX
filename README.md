@@ -1,0 +1,1 @@
+[query 1](https://github.com/wmaiduo/BootcampX/tree/main/1_queries)
