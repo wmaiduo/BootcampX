@@ -1,8 +1,8 @@
 select
   name,
   email,
-  id
-  and cohort_id
+  id,
+  cohort_id
 from
   students
 where
